@@ -1,487 +1,96 @@
 {
   "seen": [
-    "dd581211e1404c108adb",
-    "7fdb842a0546c1e6788b",
-    "c64ef75e9cd3fcc5e688",
-    "35ea463b85e82165faef",
-    "bcbf2bef3ec04c0b2c5a",
-    "a6f860d598d6d5c99786",
-    "d8e5fcd2c29e32dea742",
-    "ebf5334e0716fc96d458",
-    "eaf2c2904e65450a6259",
-    "85cdbab99367e44661f8",
-    "de655a1e6a7064b96061",
-    "6796c549840ac7945c37",
-    "67b728153b8a17e52b6f",
-    "5cf340a68f5fd8da065c",
-    "d2d54e7c8268b3beeb06",
-    "f155cbe3c7ea35b5fb6b",
-    "e5e6fac0a6742938ed6f",
-    "2923744ecf26d66eefb5",
-    "e7b95f9a683472ff4607",
-    "ca702c29d4c7672b84a3",
-    "858915dbfd6dc806b492",
-    "231e4bde46371011a684",
-    "8f0bbf693edb9d45f42e",
-    "f394599b1e4d3aa1946b",
-    "5fa643e7a2ef9eb9f12c",
-    "9b442cacec642926ed08",
-    "908c51d38215aea27df5",
-    "d3ae6f9d400211c3887e",
-    "221814a47bf3db206017",
-    "3f04b68c386e14493920",
-    "15c8a8c9b7df3110c3e1",
-    "6b0ace409a67a5396815",
-    "ba649fce067327c58b4e",
-    "e271a2503750ba106f54",
-    "e4752eb233579075569e",
-    "986b915c158a90bc4922",
-    "ae90de37b8e8c0f080f9",
     "b79cf57f8a21f3c09b42",
-    "95f23e83d63ee5094ec0",
-    "48298d26f9d88934d99c",
-    "ab02f2c253781947edf4",
-    "d133c15a81a0a27c295c",
-    "808cc0c5d7c8b184e05d",
-    "dcbfc40c1bf080f5e41f",
-    "fbf3bfb2b0a4106befe4",
-    "8fdfb21b5a9b10c2ed0c",
-    "72280632c439ae316851",
-    "a513d8a092bf9d28da24",
-    "c71f990eb76d5144916d",
-    "4dbbca3709401e2008f9",
-    "25bc508898b248576447",
-    "6155e9f94826125f6f06",
-    "00ea1ef84c11f5b9d9ab",
-    "5c72c94862541e30c296",
-    "50246e5816742ae756bc",
     "0d5b4ae8a24aa3aa5b37",
-    "129ca60aa0f2e08b1ded",
-    "da8d5f908b8ab01447fb",
+    "fbf3bfb2b0a4106befe4",
+    "59a8e6c713c1326c1e03",
+    "eede52f3e11a86455304",
+    "2923744ecf26d66eefb5",
+    "de655a1e6a7064b96061",
+    "50246e5816742ae756bc",
+    "6796c549840ac7945c37",
+    "986b915c158a90bc4922",
+    "a513d8a092bf9d28da24",
+    "908c51d38215aea27df5",
+    "6155e9f94826125f6f06",
+    "b1a2951a24d1f231c978",
+    "d133c15a81a0a27c295c",
+    "a6f860d598d6d5c99786",
+    "e7b95f9a683472ff4607",
+    "ba649fce067327c58b4e",
+    "52c361824783442d934b",
+    "48ac6fe6eaec3a1fa3a8",
+    "99b0a71e3cb91b04f0a8",
+    "6b0ace409a67a5396815",
+    "808cc0c5d7c8b184e05d",
+    "eaf2c2904e65450a6259",
+    "191d9548c74f03c245f4",
+    "8a8a0d7255db927c9ef9",
+    "d2d54e7c8268b3beeb06",
+    "00ea1ef84c11f5b9d9ab",
+    "c71f990eb76d5144916d",
+    "ebf5334e0716fc96d458",
+    "231e4bde46371011a684",
+    "4d109ae7168f6df59eab",
+    "04f050df6bcc264a52b2",
+    "30b08723600da66df745",
+    "3c1f1414a0b7c80dfd09",
+    "c64ef75e9cd3fcc5e688",
+    "25bc508898b248576447",
+    "cada0b620cdf70ee7063",
+    "b32e7ab8c7590a750a6e",
+    "3f04b68c386e14493920",
+    "3d27f865741bde7b213f",
+    "e5e579d199a7bed2e0f8",
+    "72280632c439ae316851",
+    "de66653d6f649824a724",
+    "e271a2503750ba106f54",
+    "dad2db462a2183025bb8",
+    "42d78585c7727ce98f99",
+    "8fdfb21b5a9b10c2ed0c",
+    "5cf340a68f5fd8da065c",
     "b85d299b59722b235b0e",
-    "59a8e6c713c1326c1e03"
+    "7fdb842a0546c1e6788b",
+    "e45e14a77bc5df14fba9",
+    "d3ae6f9d400211c3887e",
+    "69b6a3719ef4206fff63",
+    "95f23e83d63ee5094ec0",
+    "2181edbf9f58ace856be",
+    "221814a47bf3db206017",
+    "cb4d33c893a727277282",
+    "858915dbfd6dc806b492",
+    "8be000c76427ce51908d",
+    "bcbf2bef3ec04c0b2c5a",
+    "4dbbca3709401e2008f9",
+    "8f0bbf693edb9d45f42e",
+    "e5e6fac0a6742938ed6f",
+    "da8d5f908b8ab01447fb",
+    "35ea463b85e82165faef",
+    "67b728153b8a17e52b6f",
+    "48298d26f9d88934d99c",
+    "5c72c94862541e30c296",
+    "176ffd45d3e54613f370",
+    "ab02f2c253781947edf4",
+    "26b1a1be714dac0f09fc",
+    "a109de0cfc809f04d341",
+    "f394599b1e4d3aa1946b",
+    "f155cbe3c7ea35b5fb6b",
+    "129ca60aa0f2e08b1ded",
+    "15c8a8c9b7df3110c3e1",
+    "d8e5fcd2c29e32dea742",
+    "2da236c7b900ee997b32",
+    "e4752eb233579075569e",
+    "dd581211e1404c108adb",
+    "ae90de37b8e8c0f080f9",
+    "9b442cacec642926ed08",
+    "5fa643e7a2ef9eb9f12c",
+    "85cdbab99367e44661f8",
+    "49e88ed9afc644449246",
+    "dcbfc40c1bf080f5e41f",
+    "ca702c29d4c7672b84a3",
+    "26f0cac2461e0ad81ed1",
+    "2fecefad7ce0e8152c4d"
   ],
-  "daily_queue": [
-    {
-      "title": "Instituto AOCP promoverá grandes concursos na área da Segurança Pública - Instituto AOCP",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekZUdHpFWTBYSEg4TnVERTRRSjhkRS1wdnFicTNvODluRXJzVUQ1X0l1RFhBRWhmeldaYWVLNy1PSWU3endlWEhQZ0FxYVFpM3JoMjRxNkZvdkFqcjNCWldYckU0NVI1QTJNREJoUVFzU1pTS1Nwa1JPTVhaN1M5ZndfMl9zdVN4SEhsSkkwVk14WlQybGVlcVl1bUVFdGdkZjFBRzVZNktSeGRPMHhyS1B1SmJPZw?oc=5",
-      "source": "Instituto AOCP",
-      "published": "Mon, 20 Jul 2026 11:15:51 GMT",
-      "summary": "Instituto AOCP promoverá grandes concursos na área da Segurança Pública Instituto AOCP"
-    },
-    {
-      "title": "Nova regra no concurso da Prefeitura evita duplicidade e amplia convocações - Prefeitura Municipal de Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UQXpXS2hsVFFsUDZaY0R3cVFSbzhOZGVPcTZsTkM3Q1R6RHNXOW9KamhUcDE4S3FrM2JlZ2NYbVRPcFJiSnNybWFnN0JlcHhzZlpDUmRRcGMxaDFNdFk0djZYaTRVa0ozWjJxVlNOZ0tSR1hB?oc=5",
-      "source": "Prefeitura Municipal de Feira de Santana",
-      "published": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "Nova regra no concurso da Prefeitura evita duplicidade e amplia convocações Prefeitura Municipal de Feira de Santana"
-    },
-    {
-      "title": "Prefeitura convoca aprovados em concursos públicos municipais - Prefeitura de Teixeira de Freitas",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUo1dFRfWjRtUTFRZHQ4Zll6cm1uVDBENkJrUDBFZ19MY1l3NjZxWjZoU09sVFFaenhnRTNnWGh6ckZpV2w1X0ZPbWVqZHVLMThYbUhTN282WnV3RkhFcWpIaVRzSzlmM1o0bnItbXZ1SFFSTVBqdFFGR1pBRTFSWTNxMDdtTDV2Znd5Z09kQ2cweW9Xb3pKR0dfUjdkcXlqRlBJXw?oc=5",
-      "source": "Prefeitura de Teixeira de Freitas",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Prefeitura convoca aprovados em concursos públicos municipais Prefeitura de Teixeira de Freitas"
-    },
-    {
-      "title": "Prefeitura de Feira de Santana nomeia mais 11 aprovados em concurso público - Prefeitura Municipal de Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWkw3Y1FiWEl4Qmo4YnpkaWZyOFlLYjV6Z09CTlJmME5LM2s2TlRWRm1leXg4Vnd5ZnM2SHpjZ3RCWlhwZlNUaExneGpTN0Q3M0I0cS1pM3VJd2tzcUE0S2E3R2ExZEF5NllORGthVTVvMDI0?oc=5",
-      "source": "Prefeitura Municipal de Feira de Santana",
-      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
-      "summary": "Prefeitura de Feira de Santana nomeia mais 11 aprovados em concurso público Prefeitura Municipal de Feira de Santana"
-    },
-    {
-      "title": "1 02/2026 – PSU FUNDAÇÃO ESTATAL SAÚDE DA FAMÍLIA EDITAL N.º 01 DE 03 DE JULHO DE 2026. 2º PROCESSO DE SELEÇÃO PÚBLIC - admsite.fesfsus.ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXdpZ05MbTVGbWVSYkV0SUVLSlNCbHViY0pxVWpNMkpLTU5tYlQ3YUNPczMwdFB2NkV5bHluTDhrb0JyOXhHak9BZ0ZycGVaeFUwR2VHRnAxdzgyRjRsVENkMGJiOVI0NUlNMHZOZWhpNHFldWNyMVJlV3dDN3JRZmtuVlJQVFUyYVZrNW5xcmFnTGwwWm1lamdsZHZNT3M?oc=5",
-      "source": "admsite.fesfsus.ba.gov.br",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "1 02/2026 – PSU FUNDAÇÃO ESTATAL SAÚDE DA FAMÍLIA EDITAL N.º 01 DE 03 DE JULHO DE 2026. 2º PROCESSO DE SELEÇÃO PÚBLIC admsite.fesfsus.ba.gov.br"
-    },
-    {
-      "title": "Início | Inema - Instituto do Meio Ambiente e Recursos Hídricos - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16ZXNGcFcwdXpVZDNYYXZsMVc0VEJScHZzcVhpVWhZVjlpTGJiUjlHNUU4d2FnRENKc29ZeklHTG9jUQ?oc=5",
-      "source": "ba.gov.br",
-      "published": "Thu, 31 Jul 2025 22:22:41 GMT",
-      "summary": "Início | Inema - Instituto do Meio Ambiente e Recursos Hídricos ba.gov.br"
-    },
-    {
-      "title": "Seleções e Concursos | SEC - Secretaria de Educação - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zNnNrY3FQY3Y1T0lPa0tubThhTWx3SksxbGlRSEUwdDgtYl9VcDFpSDJiSEVKXzdqcmYtN2owdzRKVExfYk9zdTMwUUdDWDNDSlhhMkNNalh5b01QWGJV?oc=5",
-      "source": "ba.gov.br",
-      "published": "Mon, 24 Feb 2025 08:00:00 GMT",
-      "summary": "Seleções e Concursos | SEC - Secretaria de Educação ba.gov.br"
-    },
-    {
-      "title": "Processos Seletivos REDA em andamento | sesab - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pcU1oRzREOWtQQW1RMURmNGt5TENZdTNzUmEyNjYwSzJLR1F2bndwTXlPWlVRaWlXZGZKUnM1VVZ2cXFBV2NoQ2k2cFRXelFyWHB3RkRsckVfVnZ6N1NXT3Z4Y3k1U3k2d2Vsbll2dWhKUQ?oc=5",
-      "source": "ba.gov.br",
-      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
-      "summary": "Processos Seletivos REDA em andamento | sesab ba.gov.br"
-    },
-    {
-      "title": "Concurso Público para provimento de PROFESSOR PADRÃO P - GRAU III e de COORDENADOR PEDAGÓGICO PADRÃO P - GRAU III | Servidores - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmxla2JNYkpxUkoxbUR2bzFMNkNITUhCVDRFRE5WczJlZ0dGSUFERjVpc1FvZjhhYU16Nll4MUZ5ck13eVBETWd4eDVKYS1ZMVVuTXlCV3lsMFJUNkQteHF2TnR4QVdkYkVWTzF3NWk4NENZakVDVmN5a2dyWGtiLW1oMnJHcHpFMmF1blRnZkdBTEVKS3Z2cjg2Qnltb29oRXRSQmZwcGNiOGlBWjRtakFVaTY3b0lMOVJTMml2R3VYYWR1NC05YzRXV2VxaUc2RXc?oc=5",
-      "source": "RH Bahia",
-      "published": "Tue, 30 Aug 2022 07:00:00 GMT",
-      "summary": "Concurso Público para provimento de PROFESSOR PADRÃO P - GRAU III e de COORDENADOR PEDAGÓGICO PADRÃO P - GRAU III | Servidores RH Bahia"
-    },
-    {
-      "title": "Secretaria Municipal de Educação publica 5ª convocação do Edital 001/2023 - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3NudUVDc255bTJJWC1BYzczcXNpX1FtLUJIMmx2OGRVNHY5TVItbUVHY1I3b0tya1JqcU96eWlTQ1dySlZ2T3RxWnF5RUROSG1Xb2VzenItaEJPVFo4a3VYYnNaS2RseGJYZjdFcVNMdjlIdkxlY3FXSE1PRm50SE5UR3lGR1daaW1RaDFIdWVvNkZaRDJwbjYzZHkxZU1mMXVj?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Tue, 07 Jan 2025 08:00:00 GMT",
-      "summary": "Secretaria Municipal de Educação publica 5ª convocação do Edital 001/2023 Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Edição 3.356 | Ano 2026 05 de fevereiro de 2026 Página 3 EDITAL DE CONVOCAÇÃO - CONCURSO PÚBLICO - Prefeitura de Cruz das Almas",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcnlvTlpRNlk1X0xOWXpQbTdhVXZJaWc3QU9uOEZGSE1YdjI5ZW9EN1ZKdG51WXVyU3BvTTBNdXJGTDQxUFhadGxnOTdqVXNEUjJLbmZxQ3RHZVd1ckhwNFM4dnhPTnVLTTZWc2k4M2RzaUU?oc=5",
-      "source": "Prefeitura de Cruz das Almas",
-      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "summary": "Edição 3.356 | Ano 2026 05 de fevereiro de 2026 Página 3 EDITAL DE CONVOCAÇÃO - CONCURSO PÚBLICO Prefeitura de Cruz das Almas"
-    },
-    {
-      "title": "Editais de convocação e nomeação - Prefeitura de Camaçari",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVmpTb3BKOGxaWkdVZG83UDZRbzFZQUNMSlpxUGdoTDJ1ZFU5SEQtX3NuZVlMRjhQUHhaWTBPZ3oyWV80OTVPU2I4MGpxTEdmYmtEMFFOMkw4WS0tbXpic2tXUDdzOEw4YXVDMVI1MjBSZw?oc=5",
-      "source": "Prefeitura de Camaçari",
-      "published": "Sun, 30 Mar 2025 19:02:33 GMT",
-      "summary": "Editais de convocação e nomeação Prefeitura de Camaçari"
-    },
-    {
-      "title": "Edição 3.494 | Ano 2026 15 de abril de 2026 Página 3 EDITAL DE CONVOCAÇÃO - Prefeitura de Cruz das Almas",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMNnJ2NElJTDZuT0YwV0Jia0J4djVHbjJSWW1HTVl3SFFIYURnRWd0eTJQSC1VdGt0bVJ4TFotRjNJLVhaa2ROVjhHTjlPZmZoVjVzbVl6eVhRNmFobm5ZMDlxQ1pNYjdjMXBDVG43b1hYVnM?oc=5",
-      "source": "Prefeitura de Cruz das Almas",
-      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "summary": "Edição 3.494 | Ano 2026 15 de abril de 2026 Página 3 EDITAL DE CONVOCAÇÃO Prefeitura de Cruz das Almas"
-    },
-    {
-      "title": "Untitled - Prefeitura de Cruz das Almas",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wei1aZFkyeDdoZmcyUkdLUy1QQ0x0QnBZSUUxRHloNndiSF9MR3hkamhaSGdrd3FOWU9BMWxKaWU4czI5Uk1YdjNSNmc1LWM5eWx1ZW5UZTlOWk9lSW1ZcWlrUkRFekwzZ0tZRXRwVEdoME0?oc=5",
-      "source": "Prefeitura de Cruz das Almas",
-      "published": "Fri, 06 Sep 2024 07:00:00 GMT",
-      "summary": "Untitled Prefeitura de Cruz das Almas"
-    },
-    {
-      "title": "EDITAL SEC/SUDEPE Nº 004/2026, DE 22 DE JANEIRO DE 2026 - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZFYTc2NkJkamhXVXBwZEhfcFQwbGN3XzFEZm8zazlBTmY1SDBtRG5WcGcwUmlYWnF1dmdxZHRBM1lhaks4b2VpelRpY21xc2JzS185eS1hVVdIZjdkT25mVG9JdWQ4bVp5dE95T0hMRlpYWGVZaElfYUZ2em5VbjVoUlFaclVQdzk3dFcxcVdtTTdNX1l4bWdsMVJ2OXRvTGZsVER3?oc=5",
-      "source": "ba.gov.br",
-      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
-      "summary": "EDITAL SEC/SUDEPE Nº 004/2026, DE 22 DE JANEIRO DE 2026 ba.gov.br"
-    },
-    {
-      "title": "Concurso Público REDA PMFS - VÁRIOS CARGOS Nº 001/2022 - Prefeitura Municipal de Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PcUFGaTZsOFRaS09VUkMyVW13aEZwTWpOUnd0RXAwMmVla2NBLTdXbVZNV1hWR2JCNkMzcEVvZy1fUy1DcWRlb09VemVPaEkwSUJweHdvbkw2eTB4UWFlVE84QW44MjIzNGdBZGlkOXRSTUE?oc=5",
-      "source": "Prefeitura Municipal de Feira de Santana",
-      "published": "Sat, 01 Jul 2023 12:09:00 GMT",
-      "summary": "Concurso Público REDA PMFS - VÁRIOS CARGOS Nº 001/2022 Prefeitura Municipal de Feira de Santana"
-    },
-    {
-      "title": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICADO Car - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnU2Vi1qZWhHY1NFZGtvaUpWbEVqUzJBNkEtR1hlMUFod0pNVGtqb0hDT2xNWHNudTVHZURRdWhPVUFjekI1dUpqYVFIajV2Mko1QkNEb1BsblI0NXJEQjFIT21fLTd3eU9WS0hXSGcxNVlhQlNPallKUEFoeWRuUDM1WkQ2WUk3WDZneWUzdkQzanl6bGk3R09vLXVfbFZxOFg3TWtLSXVvWEo4N2tWalNWNXlOVzdTRkFJUjhKY0x2WHlzWU03V05IYlZta0IyRHJKcmtGQ1VZSl8tSVVpcERKcG4?oc=5",
-      "source": "ba.gov.br",
-      "published": "Mon, 20 Oct 2025 07:00:00 GMT",
-      "summary": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICADO Car ba.gov.br"
-    },
-    {
-      "title": "Prefeitura divulga edital de convocação, nomeação e posse dos candidatos aprovados e classificados no Concurso Público nº 001/2016 - São Francisco do Conde",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNEtISTlRa2gyQ1k5ZU1YX1daeWtXTk1KOXZkeVI4SFFqdmwyaktjUmx1Mll5eFFrLVJ1eXR0TFZycFZUSkN6NGQ5dzNzem5DZ3Z0TVRBdGpHSUdWd25UVmUyU0hHcHNjaDM4dkd6QnBsaFB2ZTVnMmljMzRpS0lzZFNpemptaFJkUGh3ZDdiNjlVZ3RodktMN0EzRy1vNng2eld3TDB0T3pzdFBEdkRvWW9ZLWdyQVZnQldOdEdiWkxrc2VHS1RQYXlLUWRvZnJDMERiU2RvZWVJRjNnMGN4WTl3a0NSTXN6V0tZWjVUMXVGenRDUE91RTY1RXc?oc=5",
-      "source": "São Francisco do Conde",
-      "published": "Fri, 28 Sep 2018 07:00:00 GMT",
-      "summary": "Prefeitura divulga edital de convocação, nomeação e posse dos candidatos aprovados e classificados no Concurso Público nº 001/2016 São Francisco do Conde"
-    },
-    {
-      "title": "Processos Seletivos em andamento | sesab - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NWGxXU1AwWjRTTldNOWYxWTFPa0hqU1JUaThXZHQxZl8xN1k1czExTG1lM3p0QU9SaUp0Q1JNYXpPNkt6aDdDR1NpeGthaDJ6ZHkzLTdUVVNMV0dRRHgyNU5QcVNyUQ?oc=5",
-      "source": "ba.gov.br",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "Processos Seletivos em andamento | sesab ba.gov.br"
-    },
-    {
-      "title": "Concurso Público 001/2024: Prefeitura convoca monitores escolares - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVJPSHc0VWRjclkxcUNtSGZtTmpqMXZoOWg4TlFycG44ZGd0dWlfT1dOSjJtMzJQRWJHUUwwTG9FZVNibUV6WDBiRzZWc0pHRE5LQm1JX0hLZDFFQ3ZyWFJZem1oR2JJRzk1ZUVuaFNYQm1hQThEdy1SN3VsRm1iSEpLcDVOLUIxdTB0ci16VkNiVm41UmFN?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Fri, 01 Aug 2025 07:00:00 GMT",
-      "summary": "Concurso Público 001/2024: Prefeitura convoca monitores escolares Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Concurso Público | DPT - Departamento de Polícia Técnica - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DbTdOMVE5Y1hrRjdYWEhWNGExdHdZaTNjVVpBQ3c3MTJIWTJYa2VtN2VqZjM2R1BseGo2VUo0dWZSeXlzdmlmLU5uRUdxbC1hdFF6ZXFlbzR2UlcwSGNUVjlMOA?oc=5",
-      "source": "ba.gov.br",
-      "published": "Tue, 29 Oct 2024 07:00:00 GMT",
-      "summary": "Concurso Público | DPT - Departamento de Polícia Técnica ba.gov.br"
-    },
-    {
-      "title": "EDITAL N° 005/2025. Edital de Convocação de Concurso Público MUNICÍPIO DE TUCANO, Estado da Bahia, pessoa jurídica de dire - Prefeitura de Tucano",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOVjJzS2syOXVWRDU1c2ZMd1RNc0YwdG5SLWlnRHgwQzlEY2hpLXVaNXhmSDZQMWd6Q3Btd1BGZVBZdUlRdVByT0tPTkZYWG5qbDVZZTI5OVpiZjhDcTNrODFIRXEtYTRNTjFGeklpU3dpcy16eFRyVThrSlF3cmV0aDd3YTRUVjVoek00UXV3TkZSY1FJc0p6VzVmSllTX2pNcEJIeGZLZlU4T2daRWNRTWZQd2FZYVRCTjV5ZTFXQ3BpOUdwZnpSQnZDWUVleWlEcUlHd1gzOWp0YkZIVUlrMWExeVN6cWlKRE5zTWRma2JiNXlNUDVvbU1JNGhhdWFTeENYNDNfby11MjdXYnV1V1ExT014dkt4RV9WcXZwQTBWNmtxeGowcHM2NUdOY0RLTGp4ckg0SG95UEhsYms1MWhzYmpaYTh1Umt1aUZfQmpHVmp3dWdydWZWM2ZiMW9JQkVNVFJaNA?oc=5",
-      "source": "Prefeitura de Tucano",
-      "published": "Tue, 29 Jul 2025 07:00:00 GMT",
-      "summary": "EDITAL N° 005/2025. Edital de Convocação de Concurso Público MUNICÍPIO DE TUCANO, Estado da Bahia, pessoa jurídica de dire Prefeitura de Tucano"
-    },
-    {
-      "title": "edital de convocação do concurso público nº001/2022 – fsvc - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPempCeDlrcjEtWVNZVlVuMjF5T2gxcHFndXhKbTl6QUtxOUZhVDVsbjE0enJwRklzVUgxc3JMMzRzc3dpTE81M1BuSWRRbl9SNGpxNkxfclFNd0VPS3A4WHFMaGZqRkVaY3dLVmRuZzJDUTVOMWhPNHV1aXBaRDJLTlVxclhHVENZMlRKUmIwQUlyUQ?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Wed, 01 Feb 2023 08:00:00 GMT",
-      "summary": "edital de convocação do concurso público nº001/2022 – fsvc Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Prefeitura de Jequié divulga convocação dos candidatos classificados no concurso público de Agente de Trânsito - Prefeitura Municipal de Jequié",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTVc3TlhpSGplOC1hMkFQRkZLMmpPZmc0c3NzTlF0UVpHQ3FKUS1qclRPSTBzZ1ZYaU9iV2xxRllhVjRHWnhqdGl0djJabDN2dHFsNDBUeXFZbWVFZWVZYTZ3cXlHYk5zTTBTekNSdnBFdlEzemxMdW56NGttYXplVlMydUE3eHJ3aVZmWGZNMnNuU3l0QnJlSnBWTk1ocHFlSS1nYVk3bXhuaTloZXlhQmdBeTNCQmlMVDlIUk5IcUxKa0cxcG51dGlGVk9CQnN2aFZnaUtyanAwcTJyYnRQTmJIQ05Bek4yWTFWVw?oc=5",
-      "source": "Prefeitura Municipal de Jequié",
-      "published": "Wed, 23 Nov 2022 08:00:00 GMT",
-      "summary": "Prefeitura de Jequié divulga convocação dos candidatos classificados no concurso público de Agente de Trânsito Prefeitura Municipal de Jequié"
-    },
-    {
-      "title": "Governo do Estado convoca 709 candidatos aprovados no concurso da Polícia Civil - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDhxRl9SeHZyZkJUdDBYMmRkcFdHUHpTU25WNF82ZEZlOENsXzBlUUxkQkJLdHhNMVplb0NvOHJjVC1kSmh3S2pMOHRIT2NIRkhUQTE3TFpaVkYzX280QVlHVmdTcWtJbmZtMEN3Mm5xMXEydFMzQzlmTzNGVWgtbEQ0cmZ4eU51RkpLa0E4YzN0YWNvWG1LTGx1UWluMWJYVVNhV2JmZXpOX2VKeGc2elVyZUt5LWRGUDYwblh4aEVZenlnSDl0aDdB?oc=5",
-      "source": "ba.gov.br",
-      "published": "Fri, 09 Feb 2024 08:00:00 GMT",
-      "summary": "Governo do Estado convoca 709 candidatos aprovados no concurso da Polícia Civil ba.gov.br"
-    },
-    {
-      "title": "1 EDITAL SEC/SUDEPE Nº 03/2025 - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tzV1A5VFRsaTE0cDFNaVg4LXh3M0dqZ2hwb3h0Z1VndjZKazhvTWw1dFR0STJ3LVZ4c1E5QTdjWk9lQ05Oejc3aHBkMUVtZklEczl1NkxUQzdwaHVXT2h2dDNYUjZXUDJEbXJpRzhxX09xb0xsODV4WGdpRGtVNW1TUG11Y1ROWkl1MVBiSjlnTHRQNU5DdEprR0VGYmlVRWhSbmlka0lwVVFtR1k5akpDT0w1ZVFyS2c?oc=5",
-      "source": "ba.gov.br",
-      "published": "Wed, 19 Feb 2025 08:00:00 GMT",
-      "summary": "1 EDITAL SEC/SUDEPE Nº 03/2025 ba.gov.br"
-    },
-    {
-      "title": "Prefeitura de Cruz convoca aprovados no Concurso Público para tomarem posse - Prefeitura de Cruz das Almas",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHl2Y01rd2pLLWlQYTlZbk5YM3ZhMEp1SkozbHhKTWNnT2VMU2ZpUENGUlBKd2hsWDZjTF9CSGI4YUFQWlY4a1JmdGV4WE44d25BY3AxNV9XOVVDXzlnWnpmMnZGQUdvaUdSQ2c0dEFWM3lKWmpuRURtMlMwdkJkNmYtYVBiQUxUWGpqTFYzS2dhb1lQZnIxV2cyWGl2UlFJVWJqN251d19HWGNiZFhEcXFZZFU5dTE1UnlNQ1ozcGM?oc=5",
-      "source": "Prefeitura de Cruz das Almas",
-      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
-      "summary": "Prefeitura de Cruz convoca aprovados no Concurso Público para tomarem posse Prefeitura de Cruz das Almas"
-    },
-    {
-      "title": "CONCURSOS - Prefeitura de Simões Filho",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RQjFfd0gtNlVlNlpueGp1RWh5eHJkZUdzN21Oc0xJMEtKbm9QQmdGVHl1NmdfOHdibWg1SUxybmx0SnFreTVCa1JkTTQwc1JYakE?oc=5",
-      "source": "Prefeitura de Simões Filho",
-      "published": "Tue, 30 Apr 2024 18:16:34 GMT",
-      "summary": "CONCURSOS Prefeitura de Simões Filho"
-    },
-    {
-      "title": "PREFEITURA MUNICIPAL DE SENTO-SÉ / BAHIA CONCURSO PÚBLICO | Edital: Nº 001/2024 - Prefeitura de Sento-Sé BA",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTERXUTdYRUFNOWM1S29KUWJkbHlHbXVIRUk1NnF2MVBvMjhIWnNENUhYd0hkaDloR1dCWktnb1ZQYnQ5Y3BZR21rbGMtckVNY3J2R3dUZGoxLS1oWXh4Mm02a2JYdmpYV2lfWGhTTTAxdUlpMi1NcUhjRkRsSGwzb242VmV6YW9G?oc=5",
-      "source": "Prefeitura de Sento-Sé BA",
-      "published": "Tue, 02 Apr 2024 07:00:00 GMT",
-      "summary": "PREFEITURA MUNICIPAL DE SENTO-SÉ / BAHIA CONCURSO PÚBLICO | Edital: Nº 001/2024 Prefeitura de Sento-Sé BA"
-    },
-    {
-      "title": "Seleção Reda Saeb - Edital 001/2025 | SAEB - Secretaria da Administração - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXoxdWVaZXpTYlFMdVpNQTBmbGl5VEI3RVZmRDFneThxYlRxWkxLU0IxNVFrWFBJdVRuSWVTaVFhLXFZdEVSYXBQUHBWZVdwV21Va2tXOHhtWDlLOTc2TF8xNUZMQVhibFh1UWdXRXJuS3hfdGsxMlNtNEtGRFlrbjVtYUZ2cTg?oc=5",
-      "source": "ba.gov.br",
-      "published": "Mon, 10 Feb 2025 08:00:00 GMT",
-      "summary": "Seleção Reda Saeb - Edital 001/2025 | SAEB - Secretaria da Administração ba.gov.br"
-    },
-    {
-      "title": "Editais | PCBA - Polícia Civil do Estado da Bahia - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SSkVzMDIzdVlNNEhJZ1JnaDdvbW9qQWJjdF9zaVJsLXFkMWd6NWlVbzFKdkFjSmNvc3NJVEZ3ZnJIQllKQzFsZ2VzRExEaEVSWHhrcw?oc=5",
-      "source": "ba.gov.br",
-      "published": "Tue, 20 Aug 2024 23:02:44 GMT",
-      "summary": "Editais | PCBA - Polícia Civil do Estado da Bahia ba.gov.br"
-    },
-    {
-      "title": "1 CONCURSO PÚBLICO PREFEITURA MUNICIPAL DE JEQUIÉ/BA EDITAL Nº 01/2025, DE 31 DE OUTUBRO DE 2025. O MUNICÍPIO DE JEQUIÉ, Es - Prefeitura Municipal de Jequié",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEFteU9nTVdUVU9XSXROdzN4dlVPOXlMZXRwZzdBUDgzN0NtT24xaEhGMDRvN3IyZzVXbjZ3MjBCRFZPWEJXSkJhZThRNWp0Qmd6WVRZb1NKbDBCVXkyLU1Bd183RVFfcVdTTDRBZEdLZkt1eThmUzRWbHNrY3VKU2U1WFBnaHVUdWFQNXJ1akttZTQ1aFBFa2xwYnVkWHd4R1Zmem5nNUo1dUxyVkk4bFRGOEJkSWtxYWIwSmxjanZUZ3hqR19DQVJiSGhYWW9xdkxUSWJvNlV4RnM?oc=5",
-      "source": "Prefeitura Municipal de Jequié",
-      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "summary": "1 CONCURSO PÚBLICO PREFEITURA MUNICIPAL DE JEQUIÉ/BA EDITAL Nº 01/2025, DE 31 DE OUTUBRO DE 2025. O MUNICÍPIO DE JEQUIÉ, Es Prefeitura Municipal de Jequié"
-    },
-    {
-      "title": "Edição 2.725 | Ano 2025 10 de abril de 2025 Página 7 EDITAL - Prefeitura de Cruz das Almas",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sZEY2dFY2amo0Wm5qMGVSbGJCckRTSE5Hakg3TmNjN21Hb0RxbVVSODZubEFuS0xkZWk3TXl6aFVzZ29Za3NJdWR3THRrSnBZemI4ZEJoUjV4dEhMSUljMVRoY1ByeGNKcThwbi1pYXRBSVk?oc=5",
-      "source": "Prefeitura de Cruz das Almas",
-      "published": "Thu, 10 Apr 2025 07:00:00 GMT",
-      "summary": "Edição 2.725 | Ano 2025 10 de abril de 2025 Página 7 EDITAL Prefeitura de Cruz das Almas"
-    },
-    {
-      "title": "Processo seletivo 001/2026: Semdes realiza primeira convocação de aprovados - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZW1HSDR6c0l5Z1k5QU9OdENqbGlNOG0taU1MNmZMTWJvN3RGRkxLZmM1Y08tcE5ZVUw1UVpVM1VQbThxRGNQN1prZFVXU1ZDTzRXX3lrTUoweGdNUHNHN2ZROHU1UW90MHRtam1MNzdyS3djZ1FTTFFTZ0tyakUta3YtNHgxR0pCTDZOQmhkVzUxX1NLNmh6VHM0akx3VVNkR2pJYw?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "Processo seletivo 001/2026: Semdes realiza primeira convocação de aprovados Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Investigador (Agente) e Escrivão de Polícia/1997 - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlhFcHlpeEJXUGxlWGRmejUtanBDX08tM1d4OU5QT2dsdjZYN1EyV0dQR2ZVNUN4bjZ4OXZzUlhFUFdnMzEyVDF6TXJyazl1UHRvNnVsWThjWW1HNU1oMk4yTUxXTkVFcnEwNW5Cekg0RjdqdGx0QW8xUTUyblBxS2pOTTNrYmhZc0M2QTAtYnNkZkJRdWF3TWZTelp6NHRGZWxaNQ?oc=5",
-      "source": "RH Bahia",
-      "published": "Wed, 26 Feb 1997 08:00:00 GMT",
-      "summary": "Investigador (Agente) e Escrivão de Polícia/1997 RH Bahia"
-    },
-    {
-      "title": "Concurso Público Polícia Civil da Bahia - Edital SAEB Nº 02/2022 - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnhmd18xX1hzQkpqYTZ0b2JOWE9jekRqV0g0Mk56Z0cwcWF3MThwMWpLS3g1RXJpSXkzSkMwT0VvaW1EM3gwUDZBN002dGd1bXk1Zl9saXRnRWhyRnhwVHEwOUhoREk1NUxDMWFOSVdaeVZXVnZUdnkxVExTcWp2dzBybmpOeGt6eTIzLUY4bEc3dnhVRFdMRWtkUWJuWVh3NjJHSy1XM0pGNkF2NHc?oc=5",
-      "source": "ba.gov.br",
-      "published": "Wed, 21 Aug 2024 07:00:00 GMT",
-      "summary": "Concurso Público Polícia Civil da Bahia - Edital SAEB Nº 02/2022 ba.gov.br"
-    },
-    {
-      "title": "Polícia Militar/2001 - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcHZhcWE5LVRXdzlKQU9XY2lIWV9zLTVFbWdVMDhIXzNVanNHamtHR0VZbnlfamxtS1gyc0R3MTJJNTJuYTdQajBJZUQwQ3lCbVBTbEZreGJOcnNVSUpaVlVfOUNpSmdHMFoySU9JQWRLdjBhS0Myd2pwMEtDaTh0Nmtn?oc=5",
-      "source": "RH Bahia",
-      "published": "Tue, 03 Jul 2001 07:00:00 GMT",
-      "summary": "Polícia Militar/2001 RH Bahia"
-    },
-    {
-      "title": "Seleção Reda Saeb/SAC - Edital 002/2023 | SAEB - Secretaria da Administração - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEtleFVJdFlBRFE4NGEzR3FxQ09qQ3lGaFRnSEdHRTB0QlJKQXBTLV9vNXZXZUMyTFFBU2ktQVRMZXlCTE5tMUtHTFRrUzhicjN0SlBsWE9GZ2hab3VlNVFCdkRqc2FqcmkzNUFzVlhsTnB4ampFODVPM1lzak9YU2xDS1hUdzhEVFVKZnJYUQ?oc=5",
-      "source": "ba.gov.br",
-      "published": "Wed, 08 May 2024 07:00:00 GMT",
-      "summary": "Seleção Reda Saeb/SAC - Edital 002/2023 | SAEB - Secretaria da Administração ba.gov.br"
-    },
-    {
-      "title": "Concurso Público 001/2024: Prefeitura divulga homologação do resultado final e classificação - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGgybF9nWlRZZWVqNEtVNGxtVFN6Y2J1U1Vzd0tPTXhlVGhmSnNBSG1kSzJqQTlVYWJ6bEVVZ1dGOV91c0JSeWpUb0tCWmtCOGNmODg5b3VUVU55VDR0bTktLVR4bDZ6VWRvNVZyTlNHMlRxTm8yZVF2UTk4bUNLajJRazVUQnNPbFRiQUpjeUtLMFgySVhKQTZmNzA1OHRZN2xEVGtMdmN3RlBKVzhTU3NwNFc4bWJBcG9uRndn?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Fri, 05 Jul 2024 07:00:00 GMT",
-      "summary": "Concurso Público 001/2024: Prefeitura divulga homologação do resultado final e classificação Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Processos Seletivos REDA encerrados | sesab - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHFiTWFHWUJmVGZ5YkR5VUFibmRCdEpxR2pKZGJqd0kyMFAwNXRWal90VDAxUGFMeFZaN2hCR01KaThTbHJnUlVIY3JiT1BPV3ZhY2dYN3BxSzBDNm9jVkNSdExlWG4ycExFcEV4SUxYa2dHU0VYb19TR01uMGVHbFdB?oc=5",
-      "source": "ba.gov.br",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "summary": "Processos Seletivos REDA encerrados | sesab ba.gov.br"
-    },
-    {
-      "title": "Concurso Publico para Auditor Fiscal da Secretaria da Fazenda - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkFXb3lPa3hsNGlwT2thV3MwNk9zS3VhR1hVVkFiZzlhWC1PbE5tcTMtMG9CbVBYWTdROXVER3E5ekw5ZTJhal93R25JRU9Oam5vc0dXZ21PNE5Rc1R0VV9pcGtGV0ZoOU5NTHFCQzVmWEZWMUU0bzRSSTE1SXNmSllFM0k1TzRPdmc2NGhkOEd4WFpZOTdfRzkycXp0ZHhIMFRJcG82Yl9MS0Z2NXJ1M3hEN2JPWExzRXZj?oc=5",
-      "source": "RH Bahia",
-      "published": "Mon, 11 Mar 2019 07:00:00 GMT",
-      "summary": "Concurso Publico para Auditor Fiscal da Secretaria da Fazenda RH Bahia"
-    },
-    {
-      "title": "PROCESSO SELETIVO - PREFEITURA MUNICIPAL DE ITABUNA - Prefeitura de Itabuna",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DNnFDVTRtb2NTbzAyUTdVRVVlWGhORXpabDR2b2Etbk1vQ0xLUllGV2ZlcGRCaGl5NGo3Y3hhM19vOTJNQktaaUtUNl9tWHdZSnRtTVl3?oc=5",
-      "source": "Prefeitura de Itabuna",
-      "published": "Fri, 02 Jun 2023 01:25:43 GMT",
-      "summary": "PROCESSO SELETIVO - PREFEITURA MUNICIPAL DE ITABUNA Prefeitura de Itabuna"
-    },
-    {
-      "title": "Prova do concurso da Fundação Pública de Saúde de Vitória da Conquista será aplicada neste domingo - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnJIZWRpOEtRR3pVSVFlUEZXM3FjSzhFYkxrYWttMEUzT2NoTjdjUldLSUdBR093YktfVmJIUmNUYXBMMGFaVG1KLWptbndlUGRoUlhHMDlSZldpOFhOdzJ1NGNfODlpdjdNWUtDRkcwM0NRUW5mdVJuMTlIci1WcDIzMGZ5MVFOaDlPMU5TR0R0QV82LUJUa3o2dWxTR0ZvbXVUZmVLWGdPOTJocUhPSkxicjhmaktmUmpQQkxXTmVWU0Q4?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Thu, 12 Jan 2023 08:00:00 GMT",
-      "summary": "Prova do concurso da Fundação Pública de Saúde de Vitória da Conquista será aplicada neste domingo Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "Ano 9 10 de janeiro de 2025 Página 30 DECRETOS E EDITAL DE CONVOCAÇÃO - Prefeitura de Sento-Sé BA",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemo4cnlBcnpwTW9UMFY2U29BMUhzR2hEYWppTTc0OXhCLTEwWnB6Q0xBd09OZl9TWDBwcllmNkNpendzYVVURUVwNEUyVmtacy1BMkdPaEZvWFZHc0UxS21uSUN3LW5IQW1Ha3paOGRMb2xpTkUzUXFCbGhkNF9CbWVDdlZ1Yy1yaGNYTXByd2xFbTA5?oc=5",
-      "source": "Prefeitura de Sento-Sé BA",
-      "published": "Fri, 10 Jan 2025 08:00:00 GMT",
-      "summary": "Ano 9 10 de janeiro de 2025 Página 30 DECRETOS E EDITAL DE CONVOCAÇÃO Prefeitura de Sento-Sé BA"
-    },
-    {
-      "title": "Concurso da Polícia Técnica: Governo convoca 323 candidatos para nomeação - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY01lZzBFcUMtVzhQVVg3NE82ZjB3NW9nSzBMQkFfRy1tU19pMV9vQmw4RlNKSTBhVjhlczlPQ1BqcFcyeVphZ0Nza2NSWFRNNy1PMHVDZzBSak01MEpaUzYzcjRVQk42WFgzY1d6UlZWRlpQZ3c3NlUtRk44clpHNnhsTE1JbUxJb0xHcGNEaXpZa1pkN1BmSkZqMjAxUXFEa3ZUdTRYZHBqeEI2RUE?oc=5",
-      "source": "ba.gov.br",
-      "published": "Tue, 25 Feb 2025 08:00:00 GMT",
-      "summary": "Concurso da Polícia Técnica: Governo convoca 323 candidatos para nomeação ba.gov.br"
-    },
-    {
-      "title": "Untitled - Prefeitura Municipal de Cipó",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNYXZIV19raUQwUU84ZGo5OHZGR0xzbldobWtuMzFIZjE2aWozS3FMY3U4MkR6blc2Wk9QQUlYdjZmN2l3VHVid0tpbFZPbDViQ2JXdGg5Z2s2WElIZllJOWZaSm85SzNsZkRzc0ZuV0cxUUhvbk55d2FQNW1IRjlYdzZLTDhOMFRHOUZ4QWF5TWVGdXJjdkdYUEVqeXRsQzJsRVF3X05WNVFtb2IxTW5MNy05bGVkZ2pVLUpTZ1JrZGxPLWtvRXhQdzhXcFJXcGJiZk9ERFl4dENNdGtFM2JwcFh0SFhuTnpoSklqU2pvanJwM2liS25OZG1tOVh1QUxOQ1pWN19oaU9Uemx3MUEyb1RodWlCZjBrWTN0WFhZUW5weUZqZk1QQjBQRGtiS0ttUEhpcldOcExVZzZLOEJVZ0tn?oc=5",
-      "source": "Prefeitura Municipal de Cipó",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "Untitled Prefeitura Municipal de Cipó"
-    },
-    {
-      "title": "Governo do Estado faz 2ª convocação de aprovados em concurso da Polícia Civil - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFByT0NleUJaSVJYeVk0UWZJMDJyWXhZVWhlaWc0MG9BeDJFNlpNb3JQSkR5djhtemlDeDRDSHh2NW5wSG5vZXAxaWx0ZnMwbE92RUJfaGo5N1pxOUlLaF8tSnVCUXBKQmJhd3l4Rm5xZGtxN0dKRnhlMFlydFozQXJKVV9tTFowcGFFem5lMVNXdXp0OGJZLTF6b0lHWlRjZ1FHVXRyYnVWeTBnN1VvMjdBdw?oc=5",
-      "source": "ba.gov.br",
-      "published": "Thu, 27 Jun 2024 07:00:00 GMT",
-      "summary": "Governo do Estado faz 2ª convocação de aprovados em concurso da Polícia Civil ba.gov.br"
-    },
-    {
-      "title": "Saeb convoca candidatos do concurso da PM para exame médico-odontológico - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVFjYm5jMmxmM0RON2JBMGwzaWVzdlRHcGo2LUlpZW9OOEZ6cS1fZ3ZBUkc2OW1BUmVfVUl4R1lJb3FzNGdWS2NGeFRLRUhpTm5LR1Etek55alE0SmRwQVFVb3ZHUmVXU0s3WjhHUUdVai1IZjlxM2pfYUVLLWR2cjE3YUtvUUFMNXQtcE1vSjhhQ1QtLUIwcFhrcXZvTmV3dDBjMXNSZVdoZ25uSmdEWFdHX1BxWHhGemRQZk1iZkRIajh1ZDlWTg?oc=5",
-      "source": "ba.gov.br",
-      "published": "Tue, 30 Oct 2007 07:00:00 GMT",
-      "summary": "Saeb convoca candidatos do concurso da PM para exame médico-odontológico ba.gov.br"
-    },
-    {
-      "title": "Concurso Público para provimento de Agente de Tributos/2022 - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnJJdzc5S2FXMnhzcEp6d1lSYUVCQldjTjkxVE1Jckw5ZjNDQzEtbkRaaGg2RG1UdFp4cTBZb040TS01ZWl1Rk40VkRnRV9PTWFfQmVSc1EtQ1dZUGJ2ZTVNZUg1dEE0NUxvUkZfMmI3MHpvN0NvcE43bEYyMTJSZXhwQVVCcjVqaUhURGx1eExxRmt2WEcwM3o3d2pnNWp4VUd0U1ZwSXVUdVFOX01JY29qVG5zc0Jn?oc=5",
-      "source": "RH Bahia",
-      "published": "Tue, 05 Apr 2022 07:00:00 GMT",
-      "summary": "Concurso Público para provimento de Agente de Tributos/2022 RH Bahia"
-    },
-    {
-      "title": "PREFEITURA MUNICIPAL DE VITÓRIA DA CONQUISTA/BA SECRETARIA MUNICIPAL DE GESTÃO E INOVAÇÃO EDITAL DE CONCURSO PÚBLICO Nº 00 - Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEs1bVZQMFNyWFZYYWZxa1RaX2FhRm40RmZUTGFqd19mRWxSRWl6RWdwTWlUdG1ERWF2bkVhVHRKSFE2UGRiblpIZFJSdndzUkpUbk9IcldTTkxZa1VHVm1UdTQ1OGFZaC1SY3loM2hwYWZTNmdjYjhxZWQ3Ul9Sc3VRZXNSanRuTV9pYXlwS3NsMV9iWGc?oc=5",
-      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
-      "published": "Tue, 19 Mar 2024 07:00:00 GMT",
-      "summary": "PREFEITURA MUNICIPAL DE VITÓRIA DA CONQUISTA/BA SECRETARIA MUNICIPAL DE GESTÃO E INOVAÇÃO EDITAL DE CONCURSO PÚBLICO Nº 00 Prefeitura Municipal de Vitória da Conquista - PMVC"
-    },
-    {
-      "title": "LAFAIETE - Prefeitura Municipal de Lafaiete Coutinho",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZkk0RDhUUVMzQ3JVSUg2Q2VmUktKTGFpby1odUhZdGVZb3UzMkNJdU9VaHlOVVNTeGNyVFJsaDBqczNNaG1sYlppNnBZQVgyTmF6VlZINmJ0bmJ3N0pTdnNEbkZ1TEc3ZHNEcERkblNGSWxKUTlab0dmX0pZNzJDM2dUMzA1dDBJZ19zV2lDLXpNd0E0MTlzWlhFUkFKeXZmVFQwQTZLZ2ktbHY1LWw3NWFnVF96MVVZNnJYeVJxblJ5WlpacUU2VTQzTy1ZTFB5UkVySDJEbEQtV1ZHSDZUUkpCTDhNczhPdlZjOWhfN0pVanpIMl91bEs0Q2gwNzhYOFVxM0VsZU92Skd4WEE?oc=5",
-      "source": "Prefeitura Municipal de Lafaiete Coutinho",
-      "published": "Fri, 13 Mar 2026 02:47:36 GMT",
-      "summary": "LAFAIETE Prefeitura Municipal de Lafaiete Coutinho"
-    },
-    {
-      "title": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICAD - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRVcyckdxV3RXSDA0NEVLTHI5R1JLOExJT0RacUllMFJIZlV1b0F3ODlhYmZYdXB4cXZKSmd5SGp1ZFllM1Vabm1odmZRRnVPZlZDRkpHck5OQ1U5UDY0TU1sZ2tLaFQyblpZZm5tRDdzTFlNd1RWdmZEd080ZGpBSEpCRDdPT0pScmZqVlJ6WTlEWmVuTDV2U3R2bGc0OGI5V0d6UGJkUnZFN3dZU3N0Nm04YnlWVmQ4eXJmSFk0TEhNbTRNVDd5ZGtoX2Z4dzFVaUw5RE4tazRUTnVj?oc=5",
-      "source": "ba.gov.br",
-      "published": "Thu, 20 Nov 2025 01:35:57 GMT",
-      "summary": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICAD ba.gov.br"
-    },
-    {
-      "title": "EDITAL DE CONVOCAÇÃO - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRU9JT3NKc0pkbFVyc2dSNHY4MUtPRE9hSGd5TVFJNUx6dG10bHVFM1pRMDhQVHFQMlBPdm05Mml6c1ZlakcwTkQ3MmFEZkcyOFhiNHo2UzRqYXdSQ1UweXlPOUxRTTJpYU5keDg4VVNzQXBtVjVjcFY4VUNuTWJfZzdzcVFZaHZSSzJuVFFzdy1WYl9rNzlyb21scXBiSmx5ZkNzQkxiU2dqc01ET0daTVphaWRSUXFOLVNkY1NDN1ZveWdlY183Y1ZTQmF5M1BRRl9TMWtoVQ?oc=5",
-      "source": "RH Bahia",
-      "published": "Sun, 08 Jan 2023 14:57:32 GMT",
-      "summary": "EDITAL DE CONVOCAÇÃO RH Bahia"
-    },
-    {
-      "title": "Processo Seletivo Simplificado 001/2025 - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yN2hoMVNOWXpXcU51dENqV0RGZ3hiYXZrbkttZ3lIbVlDb1l3aEt6TEJ0UGwyT1hpM1otSFJ4NXNKcEFPaDkzdTlqWXNlMmxTMktDWTNTU2pKUFBSRXpJLW5jZG5nYkxmMVlnd2xIOWJXOFhh?oc=5",
-      "source": "ba.gov.br",
-      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
-      "summary": "Processo Seletivo Simplificado 001/2025 ba.gov.br"
-    },
-    {
-      "title": "ESTADO DA BAHIA MUNICÍPIO DE POJUCA/BA CONCURSO PÚBLICO Nº 001/2024 - Prefeitura Municipal de Pojuca - BA",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZm9vMHdJb0JOUS1jdUVWaHVjai1lNG5YX0ZTcjdCWVhjSmNjZjh6RHJOTHRsRWNOTXVNdzdqY3FRWUpVbkllREo5VGgzX3E1WVVSVkRMX0gwMWM0em9WWnR4Yk9hVDQ?oc=5",
-      "source": "Prefeitura Municipal de Pojuca - BA",
-      "published": "Thu, 19 Sep 2024 07:00:00 GMT",
-      "summary": "ESTADO DA BAHIA MUNICÍPIO DE POJUCA/BA CONCURSO PÚBLICO Nº 001/2024 Prefeitura Municipal de Pojuca - BA"
-    },
-    {
-      "title": "Prefeitura de Itabuna convoca candidatos aprovados no Processo Seletivo Simplificado do Edital 02/2025 - Prefeitura de Itabuna",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVGNWemg0YVpxU0s3a3M3S3FYeTByc2FuTXZCb1dFR09PbUIxM0VicWtUd3FiejI1M1dKb2lGTnBtS3FhQXFUbVFMbHAtb2pPSUhldDNEOUl4YnlGSllERHM2LTI1REh6S0w0SHpkVDE2SWRITmVPdkgxSUhhcDRCZTJxYVNqRENzUTVsT24zZDd0ejZPMXFmNEh3dUV3STl0MERaSjFqYjNQYUlKazR6VEppVUdPM1dIMkM4LVdCblg3cnFkQ3E1RmRtNHhRM2p5eW9aREkxdw?oc=5",
-      "source": "Prefeitura de Itabuna",
-      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "Prefeitura de Itabuna convoca candidatos aprovados no Processo Seletivo Simplificado do Edital 02/2025 Prefeitura de Itabuna"
-    },
-    {
-      "title": "Seleção Reda Rede SAC - Edital 002/2026 | SAEB - Secretaria da Administração - ba.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjdTX3FTUEtrakpOQlhkc2FRbE15ck9ySGV6b2NTRUxaajFKcURWc0xJUkUyZlBTNHBobUw2OTFQQ0pSeUl5RjFJMEk3WUU5ckpBZU5KNU9pNm9ya2drNllCLThNWWt0NXRvVVhRUHFWcGFGNDRmQVk4U182Qmp3Tm5FVlFGYnJEX0tpaA?oc=5",
-      "source": "ba.gov.br",
-      "published": "Sat, 30 May 2026 07:00:00 GMT",
-      "summary": "Seleção Reda Rede SAC - Edital 002/2026 | SAEB - Secretaria da Administração ba.gov.br"
-    },
-    {
-      "title": "Polícia Militar/2006 - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVy1JY25WcXBER0ZUOWV6X0hpOUhEdmtLalM0WnA1T3pfbGg4VUJCS3hTUlgzMmUyS0tyN2l5NHdGNUI0a0M0UzRTSUZBOGpuQmRsenZTTXVNdkhoZ0hVUnE3V1BTUUQ4LVN3WmZMbVVybjJVNW1GUmVnQ1VuX2tqdjVB?oc=5",
-      "source": "RH Bahia",
-      "published": "Tue, 28 Nov 2006 08:00:00 GMT",
-      "summary": "Polícia Militar/2006 RH Bahia"
-    },
-    {
-      "title": "EDITAL DE CONVOCAÇÃO - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmhycUhHMFMxck1DYTRRUG5EMzlVbi1aZUMxZ19maGp0N1o4THZKQWw3S0lmNkhiTHQxMGdSTnBkY2tGM0lEOVRFZVpJdml4Y09JQnV0R1did1ZlMTN5dWxYT0Z3dE9VU0NPOXFTeVdReHl5UzJjaktOZzFTT1NfOXpvejFzU2NYTzFYMHkxLUlRZFFHR0tGclo3VmRVcGwyTy15RF8xQWpLZE5oOU5Rb25MNm1SVk0tZHM2MmZ4NTNmMUxadEtaMGUtVDJXMmhobjlkanhBTQ?oc=5",
-      "source": "RH Bahia",
-      "published": "Sun, 25 Dec 2022 16:57:03 GMT",
-      "summary": "EDITAL DE CONVOCAÇÃO RH Bahia"
-    },
-    {
-      "title": "Concurso Público para Provimento de Vagas para Agente Penitenciário no Quadro de Pessoal da Secretaria de Administração Penitenciária e Ressocialização do Estado da Bahia | Servidores - RH Bahia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmNlcWN1Ty1TWnR6UWJKWHF5SGZQa0ZLWi1CNmRJSXRpdFJLcHYwLW9pX1Q4Y28yTGJQVHBwQkFTNjJjb19XcFk1VzRQaWRYTmpqU3JfblpOaHAxWUh2a0w2R1dHRmF1NlM2QjIxMU53b1JWMmM4VFVkVXU1bUxDNVpLZTdzS09aME5ZcmphR3hKUUJEd3hoTG9CUllKNHp3OF9BeXNJYUszejlqT296aGsxRGJLTVB5UW5BdVhGRWEtd1BKc1c3ckRqWEFkQUE?oc=5",
-      "source": "RH Bahia",
-      "published": "Mon, 17 Jun 2024 07:00:00 GMT",
-      "summary": "Concurso Público para Provimento de Vagas para Agente Penitenciário no Quadro de Pessoal da Secretaria de Administração Penitenciária e Ressocialização do Estado da Bahia | Servidores RH Bahia"
-    }
-  ],
-  "last_summary": ""
+  "daily_queue": [],
+  "last_summary": "2026-07-22"
 }
