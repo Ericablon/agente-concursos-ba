@@ -1,0 +1,35 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "daily_summary_hour": 19,
+  "max_items_per_run": 30,
+  "keywords": [
+    "concurso", "processo seletivo", "edital", "banca", "inscrição",
+    "prova", "resultado", "convocação", "nomeação", "cadastro reserva",
+    "polícia militar", "pmba", "polícia civil", "pcba", "guarda municipal",
+    "gcm", "administrativo", "tecnologia da informação", "informática", "ti"
+  ],
+  "urgent_keywords": [
+    "edital de abertura", "banca organizadora", "inscrições abertas",
+    "retificação", "data da prova", "local de prova", "resultado final",
+    "convocação", "nomeação"
+  ],
+  "trusted_domains": [
+    "ba.gov.br", "doe.ba.gov.br", "gov.br",
+    "salvador.ba.gov.br", "feiradesantana.ba.gov.br",
+    "vunesp.com.br", "fgv.br", "fcc.org.br", "cesgranrio.org.br",
+    "institutoaocp.org.br", "ibfc.org.br", "idecan.org.br", "cebraspe.org.br"
+  ],
+  "official_pages": [
+    "https://www.ba.gov.br/administracao/noticias",
+    "https://www.ba.gov.br/ssp/noticias",
+    "https://www.ba.gov.br/policiacivil/editais",
+    "https://doe.ba.gov.br/"
+  ],
+  "searches": [
+    "concurso Bahia PMBA OR polícia militar",
+    "concurso Bahia polícia civil OR PCBA",
+    "concurso Bahia guarda municipal OR GCM",
+    "concurso Bahia administrativo OR tecnologia da informação OR informática",
+    "site:ba.gov.br concurso edital banca convocação"
+  ]
+}

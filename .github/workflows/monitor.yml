@@ -1,0 +1,36 @@
+name: Monitor de concursos da Bahia
+
+on:
+  schedule:
+    - cron: "17 8-23/2 * * *"
+      timezone: "America/Sao_Paulo"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-concursos-ba
+  cancel-in-progress: false
+
+jobs:
+  monitorar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buscar e enviar alertas
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python agent.py
+      - name: Salvar controle de notícias já vistas
+        run: |
+          if git diff --quiet -- state.json; then exit 0; fi
+          git config user.name "agente-concursos-ba"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git commit -m "Atualiza notícias processadas"
+          git push
