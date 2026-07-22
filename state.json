@@ -1,5 +1,247 @@
 {
-  "seen": [],
-  "daily_queue": [],
+  "seen": [
+    "fbf3bfb2b0a4106befe4",
+    "da8d5f908b8ab01447fb",
+    "5fa643e7a2ef9eb9f12c",
+    "858915dbfd6dc806b492",
+    "eaf2c2904e65450a6259",
+    "129ca60aa0f2e08b1ded",
+    "d2d54e7c8268b3beeb06",
+    "dd581211e1404c108adb",
+    "9b442cacec642926ed08",
+    "50246e5816742ae756bc",
+    "25bc508898b248576447",
+    "85cdbab99367e44661f8",
+    "ca702c29d4c7672b84a3",
+    "e271a2503750ba106f54",
+    "2923744ecf26d66eefb5",
+    "e5e6fac0a6742938ed6f",
+    "6b0ace409a67a5396815",
+    "59a8e6c713c1326c1e03",
+    "3f04b68c386e14493920",
+    "221814a47bf3db206017",
+    "00ea1ef84c11f5b9d9ab",
+    "ba649fce067327c58b4e",
+    "f155cbe3c7ea35b5fb6b",
+    "35ea463b85e82165faef",
+    "c71f990eb76d5144916d",
+    "4dbbca3709401e2008f9",
+    "e4752eb233579075569e",
+    "de655a1e6a7064b96061",
+    "6155e9f94826125f6f06",
+    "95f23e83d63ee5094ec0"
+  ],
+  "daily_queue": [
+    {
+      "title": "Instituto AOCP promoverá grandes concursos na área da Segurança Pública - Instituto AOCP",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekZUdHpFWTBYSEg4TnVERTRRSjhkRS1wdnFicTNvODluRXJzVUQ1X0l1RFhBRWhmeldaYWVLNy1PSWU3endlWEhQZ0FxYVFpM3JoMjRxNkZvdkFqcjNCWldYckU0NVI1QTJNREJoUVFzU1pTS1Nwa1JPTVhaN1M5ZndfMl9zdVN4SEhsSkkwVk14WlQybGVlcVl1bUVFdGdkZjFBRzVZNktSeGRPMHhyS1B1SmJPZw?oc=5",
+      "source": "Instituto AOCP",
+      "published": "Mon, 20 Jul 2026 11:15:51 GMT",
+      "summary": "Instituto AOCP promoverá grandes concursos na área da Segurança Pública Instituto AOCP"
+    },
+    {
+      "title": "Nova regra no concurso da Prefeitura evita duplicidade e amplia convocações - Prefeitura Municipal de Feira de Santana",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UQXpXS2hsVFFsUDZaY0R3cVFSbzhOZGVPcTZsTkM3Q1R6RHNXOW9KamhUcDE4S3FrM2JlZ2NYbVRPcFJiSnNybWFnN0JlcHhzZlpDUmRRcGMxaDFNdFk0djZYaTRVa0ozWjJxVlNOZ0tSR1hB?oc=5",
+      "source": "Prefeitura Municipal de Feira de Santana",
+      "published": "Fri, 15 May 2026 07:00:00 GMT",
+      "summary": "Nova regra no concurso da Prefeitura evita duplicidade e amplia convocações Prefeitura Municipal de Feira de Santana"
+    },
+    {
+      "title": "Prefeitura convoca aprovados em concursos públicos municipais - Prefeitura de Teixeira de Freitas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUo1dFRfWjRtUTFRZHQ4Zll6cm1uVDBENkJrUDBFZ19MY1l3NjZxWjZoU09sVFFaenhnRTNnWGh6ckZpV2w1X0ZPbWVqZHVLMThYbUhTN282WnV3RkhFcWpIaVRzSzlmM1o0bnItbXZ1SFFSTVBqdFFGR1pBRTFSWTNxMDdtTDV2Znd5Z09kQ2cweW9Xb3pKR0dfUjdkcXlqRlBJXw?oc=5",
+      "source": "Prefeitura de Teixeira de Freitas",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "Prefeitura convoca aprovados em concursos públicos municipais Prefeitura de Teixeira de Freitas"
+    },
+    {
+      "title": "Prefeitura de Feira de Santana nomeia mais 11 aprovados em concurso público - Prefeitura Municipal de Feira de Santana",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hWkw3Y1FiWEl4Qmo4YnpkaWZyOFlLYjV6Z09CTlJmME5LM2s2TlRWRm1leXg4Vnd5ZnM2SHpjZ3RCWlhwZlNUaExneGpTN0Q3M0I0cS1pM3VJd2tzcUE0S2E3R2ExZEF5NllORGthVTVvMDI0?oc=5",
+      "source": "Prefeitura Municipal de Feira de Santana",
+      "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+      "summary": "Prefeitura de Feira de Santana nomeia mais 11 aprovados em concurso público Prefeitura Municipal de Feira de Santana"
+    },
+    {
+      "title": "1 02/2026 – PSU FUNDAÇÃO ESTATAL SAÚDE DA FAMÍLIA EDITAL N.º 01 DE 03 DE JULHO DE 2026. 2º PROCESSO DE SELEÇÃO PÚBLIC - admsite.fesfsus.ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXdpZ05MbTVGbWVSYkV0SUVLSlNCbHViY0pxVWpNMkpLTU5tYlQ3YUNPczMwdFB2NkV5bHluTDhrb0JyOXhHak9BZ0ZycGVaeFUwR2VHRnAxdzgyRjRsVENkMGJiOVI0NUlNMHZOZWhpNHFldWNyMVJlV3dDN3JRZmtuVlJQVFUyYVZrNW5xcmFnTGwwWm1lamdsZHZNT3M?oc=5",
+      "source": "admsite.fesfsus.ba.gov.br",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "summary": "1 02/2026 – PSU FUNDAÇÃO ESTATAL SAÚDE DA FAMÍLIA EDITAL N.º 01 DE 03 DE JULHO DE 2026. 2º PROCESSO DE SELEÇÃO PÚBLIC admsite.fesfsus.ba.gov.br"
+    },
+    {
+      "title": "Início | Inema - Instituto do Meio Ambiente e Recursos Hídricos - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16ZXNGcFcwdXpVZDNYYXZsMVc0VEJScHZzcVhpVWhZVjlpTGJiUjlHNUU4d2FnRENKc29ZeklHTG9jUQ?oc=5",
+      "source": "ba.gov.br",
+      "published": "Thu, 31 Jul 2025 22:22:41 GMT",
+      "summary": "Início | Inema - Instituto do Meio Ambiente e Recursos Hídricos ba.gov.br"
+    },
+    {
+      "title": "Seleções e Concursos | SEC - Secretaria de Educação - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zNnNrY3FQY3Y1T0lPa0tubThhTWx3SksxbGlRSEUwdDgtYl9VcDFpSDJiSEVKXzdqcmYtN2owdzRKVExfYk9zdTMwUUdDWDNDSlhhMkNNalh5b01QWGJV?oc=5",
+      "source": "ba.gov.br",
+      "published": "Mon, 24 Feb 2025 08:00:00 GMT",
+      "summary": "Seleções e Concursos | SEC - Secretaria de Educação ba.gov.br"
+    },
+    {
+      "title": "Processos Seletivos REDA em andamento | sesab - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pcU1oRzREOWtQQW1RMURmNGt5TENZdTNzUmEyNjYwSzJLR1F2bndwTXlPWlVRaWlXZGZKUnM1VVZ2cXFBV2NoQ2k2cFRXelFyWHB3RkRsckVfVnZ6N1NXT3Z4Y3k1U3k2d2Vsbll2dWhKUQ?oc=5",
+      "source": "ba.gov.br",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "summary": "Processos Seletivos REDA em andamento | sesab ba.gov.br"
+    },
+    {
+      "title": "Concurso Público para provimento de PROFESSOR PADRÃO P - GRAU III e de COORDENADOR PEDAGÓGICO PADRÃO P - GRAU III | Servidores - RH Bahia",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmxla2JNYkpxUkoxbUR2bzFMNkNITUhCVDRFRE5WczJlZ0dGSUFERjVpc1FvZjhhYU16Nll4MUZ5ck13eVBETWd4eDVKYS1ZMVVuTXlCV3lsMFJUNkQteHF2TnR4QVdkYkVWTzF3NWk4NENZakVDVmN5a2dyWGtiLW1oMnJHcHpFMmF1blRnZkdBTEVKS3Z2cjg2Qnltb29oRXRSQmZwcGNiOGlBWjRtakFVaTY3b0lMOVJTMml2R3VYYWR1NC05YzRXV2VxaUc2RXc?oc=5",
+      "source": "RH Bahia",
+      "published": "Tue, 30 Aug 2022 07:00:00 GMT",
+      "summary": "Concurso Público para provimento de PROFESSOR PADRÃO P - GRAU III e de COORDENADOR PEDAGÓGICO PADRÃO P - GRAU III | Servidores RH Bahia"
+    },
+    {
+      "title": "Secretaria Municipal de Educação publica 5ª convocação do Edital 001/2023 - Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3NudUVDc255bTJJWC1BYzczcXNpX1FtLUJIMmx2OGRVNHY5TVItbUVHY1I3b0tya1JqcU96eWlTQ1dySlZ2T3RxWnF5RUROSG1Xb2VzenItaEJPVFo4a3VYYnNaS2RseGJYZjdFcVNMdjlIdkxlY3FXSE1PRm50SE5UR3lGR1daaW1RaDFIdWVvNkZaRDJwbjYzZHkxZU1mMXVj?oc=5",
+      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "published": "Tue, 07 Jan 2025 08:00:00 GMT",
+      "summary": "Secretaria Municipal de Educação publica 5ª convocação do Edital 001/2023 Prefeitura Municipal de Vitória da Conquista - PMVC"
+    },
+    {
+      "title": "Edição 3.356 | Ano 2026 05 de fevereiro de 2026 Página 3 EDITAL DE CONVOCAÇÃO - CONCURSO PÚBLICO - Prefeitura de Cruz das Almas",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcnlvTlpRNlk1X0xOWXpQbTdhVXZJaWc3QU9uOEZGSE1YdjI5ZW9EN1ZKdG51WXVyU3BvTTBNdXJGTDQxUFhadGxnOTdqVXNEUjJLbmZxQ3RHZVd1ckhwNFM4dnhPTnVLTTZWc2k4M2RzaUU?oc=5",
+      "source": "Prefeitura de Cruz das Almas",
+      "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "summary": "Edição 3.356 | Ano 2026 05 de fevereiro de 2026 Página 3 EDITAL DE CONVOCAÇÃO - CONCURSO PÚBLICO Prefeitura de Cruz das Almas"
+    },
+    {
+      "title": "Editais de convocação e nomeação - Prefeitura de Camaçari",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tVmpTb3BKOGxaWkdVZG83UDZRbzFZQUNMSlpxUGdoTDJ1ZFU5SEQtX3NuZVlMRjhQUHhaWTBPZ3oyWV80OTVPU2I4MGpxTEdmYmtEMFFOMkw4WS0tbXpic2tXUDdzOEw4YXVDMVI1MjBSZw?oc=5",
+      "source": "Prefeitura de Camaçari",
+      "published": "Sun, 30 Mar 2025 19:02:33 GMT",
+      "summary": "Editais de convocação e nomeação Prefeitura de Camaçari"
+    },
+    {
+      "title": "Edição 3.494 | Ano 2026 15 de abril de 2026 Página 3 EDITAL DE CONVOCAÇÃO - Prefeitura de Cruz das Almas",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMNnJ2NElJTDZuT0YwV0Jia0J4djVHbjJSWW1HTVl3SFFIYURnRWd0eTJQSC1VdGt0bVJ4TFotRjNJLVhaa2ROVjhHTjlPZmZoVjVzbVl6eVhRNmFobm5ZMDlxQ1pNYjdjMXBDVG43b1hYVnM?oc=5",
+      "source": "Prefeitura de Cruz das Almas",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "summary": "Edição 3.494 | Ano 2026 15 de abril de 2026 Página 3 EDITAL DE CONVOCAÇÃO Prefeitura de Cruz das Almas"
+    },
+    {
+      "title": "Untitled - Prefeitura de Cruz das Almas",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wei1aZFkyeDdoZmcyUkdLUy1QQ0x0QnBZSUUxRHloNndiSF9MR3hkamhaSGdrd3FOWU9BMWxKaWU4czI5Uk1YdjNSNmc1LWM5eWx1ZW5UZTlOWk9lSW1ZcWlrUkRFekwzZ0tZRXRwVEdoME0?oc=5",
+      "source": "Prefeitura de Cruz das Almas",
+      "published": "Fri, 06 Sep 2024 07:00:00 GMT",
+      "summary": "Untitled Prefeitura de Cruz das Almas"
+    },
+    {
+      "title": "EDITAL SEC/SUDEPE Nº 004/2026, DE 22 DE JANEIRO DE 2026 - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0ZFYTc2NkJkamhXVXBwZEhfcFQwbGN3XzFEZm8zazlBTmY1SDBtRG5WcGcwUmlYWnF1dmdxZHRBM1lhaks4b2VpelRpY21xc2JzS185eS1hVVdIZjdkT25mVG9JdWQ4bVp5dE95T0hMRlpYWGVZaElfYUZ2em5VbjVoUlFaclVQdzk3dFcxcVdtTTdNX1l4bWdsMVJ2OXRvTGZsVER3?oc=5",
+      "source": "ba.gov.br",
+      "published": "Fri, 23 Jan 2026 08:00:00 GMT",
+      "summary": "EDITAL SEC/SUDEPE Nº 004/2026, DE 22 DE JANEIRO DE 2026 ba.gov.br"
+    },
+    {
+      "title": "Concurso Público REDA PMFS - VÁRIOS CARGOS Nº 001/2022 - Prefeitura Municipal de Feira de Santana",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PcUFGaTZsOFRaS09VUkMyVW13aEZwTWpOUnd0RXAwMmVla2NBLTdXbVZNV1hWR2JCNkMzcEVvZy1fUy1DcWRlb09VemVPaEkwSUJweHdvbkw2eTB4UWFlVE84QW44MjIzNGdBZGlkOXRSTUE?oc=5",
+      "source": "Prefeitura Municipal de Feira de Santana",
+      "published": "Sat, 01 Jul 2023 12:09:00 GMT",
+      "summary": "Concurso Público REDA PMFS - VÁRIOS CARGOS Nº 001/2022 Prefeitura Municipal de Feira de Santana"
+    },
+    {
+      "title": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICADO Car - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnU2Vi1qZWhHY1NFZGtvaUpWbEVqUzJBNkEtR1hlMUFod0pNVGtqb0hDT2xNWHNudTVHZURRdWhPVUFjekI1dUpqYVFIajV2Mko1QkNEb1BsblI0NXJEQjFIT21fLTd3eU9WS0hXSGcxNVlhQlNPallKUEFoeWRuUDM1WkQ2WUk3WDZneWUzdkQzanl6bGk3R09vLXVfbFZxOFg3TWtLSXVvWEo4N2tWalNWNXlOVzdTRkFJUjhKY0x2WHlzWU03V05IYlZta0IyRHJKcmtGQ1VZSl8tSVVpcERKcG4?oc=5",
+      "source": "ba.gov.br",
+      "published": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "summary": "EDITAL DE CONVOCAÇÃO GOVERNO DO ESTADO DA BAHIA SECRETARIA DA EDUCAÇÃO DO ESTADO DA BAHIA PROCESSO SELETIVO SIMPLIFICADO Car ba.gov.br"
+    },
+    {
+      "title": "Prefeitura divulga edital de convocação, nomeação e posse dos candidatos aprovados e classificados no Concurso Público nº 001/2016 - São Francisco do Conde",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNEtISTlRa2gyQ1k5ZU1YX1daeWtXTk1KOXZkeVI4SFFqdmwyaktjUmx1Mll5eFFrLVJ1eXR0TFZycFZUSkN6NGQ5dzNzem5DZ3Z0TVRBdGpHSUdWd25UVmUyU0hHcHNjaDM4dkd6QnBsaFB2ZTVnMmljMzRpS0lzZFNpemptaFJkUGh3ZDdiNjlVZ3RodktMN0EzRy1vNng2eld3TDB0T3pzdFBEdkRvWW9ZLWdyQVZnQldOdEdiWkxrc2VHS1RQYXlLUWRvZnJDMERiU2RvZWVJRjNnMGN4WTl3a0NSTXN6V0tZWjVUMXVGenRDUE91RTY1RXc?oc=5",
+      "source": "São Francisco do Conde",
+      "published": "Fri, 28 Sep 2018 07:00:00 GMT",
+      "summary": "Prefeitura divulga edital de convocação, nomeação e posse dos candidatos aprovados e classificados no Concurso Público nº 001/2016 São Francisco do Conde"
+    },
+    {
+      "title": "Processos Seletivos em andamento | sesab - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NWGxXU1AwWjRTTldNOWYxWTFPa0hqU1JUaThXZHQxZl8xN1k1czExTG1lM3p0QU9SaUp0Q1JNYXpPNkt6aDdDR1NpeGthaDJ6ZHkzLTdUVVNMV0dRRHgyNU5QcVNyUQ?oc=5",
+      "source": "ba.gov.br",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "summary": "Processos Seletivos em andamento | sesab ba.gov.br"
+    },
+    {
+      "title": "Concurso Público 001/2024: Prefeitura convoca monitores escolares - Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVJPSHc0VWRjclkxcUNtSGZtTmpqMXZoOWg4TlFycG44ZGd0dWlfT1dOSjJtMzJQRWJHUUwwTG9FZVNibUV6WDBiRzZWc0pHRE5LQm1JX0hLZDFFQ3ZyWFJZem1oR2JJRzk1ZUVuaFNYQm1hQThEdy1SN3VsRm1iSEpLcDVOLUIxdTB0ci16VkNiVm41UmFN?oc=5",
+      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "published": "Fri, 01 Aug 2025 07:00:00 GMT",
+      "summary": "Concurso Público 001/2024: Prefeitura convoca monitores escolares Prefeitura Municipal de Vitória da Conquista - PMVC"
+    },
+    {
+      "title": "Concurso Público | DPT - Departamento de Polícia Técnica - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DbTdOMVE5Y1hrRjdYWEhWNGExdHdZaTNjVVpBQ3c3MTJIWTJYa2VtN2VqZjM2R1BseGo2VUo0dWZSeXlzdmlmLU5uRUdxbC1hdFF6ZXFlbzR2UlcwSGNUVjlMOA?oc=5",
+      "source": "ba.gov.br",
+      "published": "Tue, 29 Oct 2024 07:00:00 GMT",
+      "summary": "Concurso Público | DPT - Departamento de Polícia Técnica ba.gov.br"
+    },
+    {
+      "title": "EDITAL N° 005/2025. Edital de Convocação de Concurso Público MUNICÍPIO DE TUCANO, Estado da Bahia, pessoa jurídica de dire - Prefeitura de Tucano",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOVjJzS2syOXVWRDU1c2ZMd1RNc0YwdG5SLWlnRHgwQzlEY2hpLXVaNXhmSDZQMWd6Q3Btd1BGZVBZdUlRdVByT0tPTkZYWG5qbDVZZTI5OVpiZjhDcTNrODFIRXEtYTRNTjFGeklpU3dpcy16eFRyVThrSlF3cmV0aDd3YTRUVjVoek00UXV3TkZSY1FJc0p6VzVmSllTX2pNcEJIeGZLZlU4T2daRWNRTWZQd2FZYVRCTjV5ZTFXQ3BpOUdwZnpSQnZDWUVleWlEcUlHd1gzOWp0YkZIVUlrMWExeVN6cWlKRE5zTWRma2JiNXlNUDVvbU1JNGhhdWFTeENYNDNfby11MjdXYnV1V1ExT014dkt4RV9WcXZwQTBWNmtxeGowcHM2NUdOY0RLTGp4ckg0SG95UEhsYms1MWhzYmpaYTh1Umt1aUZfQmpHVmp3dWdydWZWM2ZiMW9JQkVNVFJaNA?oc=5",
+      "source": "Prefeitura de Tucano",
+      "published": "Tue, 29 Jul 2025 07:00:00 GMT",
+      "summary": "EDITAL N° 005/2025. Edital de Convocação de Concurso Público MUNICÍPIO DE TUCANO, Estado da Bahia, pessoa jurídica de dire Prefeitura de Tucano"
+    },
+    {
+      "title": "edital de convocação do concurso público nº001/2022 – fsvc - Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPempCeDlrcjEtWVNZVlVuMjF5T2gxcHFndXhKbTl6QUtxOUZhVDVsbjE0enJwRklzVUgxc3JMMzRzc3dpTE81M1BuSWRRbl9SNGpxNkxfclFNd0VPS3A4WHFMaGZqRkVaY3dLVmRuZzJDUTVOMWhPNHV1aXBaRDJLTlVxclhHVENZMlRKUmIwQUlyUQ?oc=5",
+      "source": "Prefeitura Municipal de Vitória da Conquista - PMVC",
+      "published": "Wed, 01 Feb 2023 08:00:00 GMT",
+      "summary": "edital de convocação do concurso público nº001/2022 – fsvc Prefeitura Municipal de Vitória da Conquista - PMVC"
+    },
+    {
+      "title": "Prefeitura de Jequié divulga convocação dos candidatos classificados no concurso público de Agente de Trânsito - Prefeitura Municipal de Jequié",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTVc3TlhpSGplOC1hMkFQRkZLMmpPZmc0c3NzTlF0UVpHQ3FKUS1qclRPSTBzZ1ZYaU9iV2xxRllhVjRHWnhqdGl0djJabDN2dHFsNDBUeXFZbWVFZWVZYTZ3cXlHYk5zTTBTekNSdnBFdlEzemxMdW56NGttYXplVlMydUE3eHJ3aVZmWGZNMnNuU3l0QnJlSnBWTk1ocHFlSS1nYVk3bXhuaTloZXlhQmdBeTNCQmlMVDlIUk5IcUxKa0cxcG51dGlGVk9CQnN2aFZnaUtyanAwcTJyYnRQTmJIQ05Bek4yWTFWVw?oc=5",
+      "source": "Prefeitura Municipal de Jequié",
+      "published": "Wed, 23 Nov 2022 08:00:00 GMT",
+      "summary": "Prefeitura de Jequié divulga convocação dos candidatos classificados no concurso público de Agente de Trânsito Prefeitura Municipal de Jequié"
+    },
+    {
+      "title": "Governo do Estado convoca 709 candidatos aprovados no concurso da Polícia Civil - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDhxRl9SeHZyZkJUdDBYMmRkcFdHUHpTU25WNF82ZEZlOENsXzBlUUxkQkJLdHhNMVplb0NvOHJjVC1kSmh3S2pMOHRIT2NIRkhUQTE3TFpaVkYzX280QVlHVmdTcWtJbmZtMEN3Mm5xMXEydFMzQzlmTzNGVWgtbEQ0cmZ4eU51RkpLa0E4YzN0YWNvWG1LTGx1UWluMWJYVVNhV2JmZXpOX2VKeGc2elVyZUt5LWRGUDYwblh4aEVZenlnSDl0aDdB?oc=5",
+      "source": "ba.gov.br",
+      "published": "Fri, 09 Feb 2024 08:00:00 GMT",
+      "summary": "Governo do Estado convoca 709 candidatos aprovados no concurso da Polícia Civil ba.gov.br"
+    },
+    {
+      "title": "1 EDITAL SEC/SUDEPE Nº 03/2025 - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2tzV1A5VFRsaTE0cDFNaVg4LXh3M0dqZ2hwb3h0Z1VndjZKazhvTWw1dFR0STJ3LVZ4c1E5QTdjWk9lQ05Oejc3aHBkMUVtZklEczl1NkxUQzdwaHVXT2h2dDNYUjZXUDJEbXJpRzhxX09xb0xsODV4WGdpRGtVNW1TUG11Y1ROWkl1MVBiSjlnTHRQNU5DdEprR0VGYmlVRWhSbmlka0lwVVFtR1k5akpDT0w1ZVFyS2c?oc=5",
+      "source": "ba.gov.br",
+      "published": "Wed, 19 Feb 2025 08:00:00 GMT",
+      "summary": "1 EDITAL SEC/SUDEPE Nº 03/2025 ba.gov.br"
+    },
+    {
+      "title": "Prefeitura de Cruz convoca aprovados no Concurso Público para tomarem posse - Prefeitura de Cruz das Almas",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHl2Y01rd2pLLWlQYTlZbk5YM3ZhMEp1SkozbHhKTWNnT2VMU2ZpUENGUlBKd2hsWDZjTF9CSGI4YUFQWlY4a1JmdGV4WE44d25BY3AxNV9XOVVDXzlnWnpmMnZGQUdvaUdSQ2c0dEFWM3lKWmpuRURtMlMwdkJkNmYtYVBiQUxUWGpqTFYzS2dhb1lQZnIxV2cyWGl2UlFJVWJqN251d19HWGNiZFhEcXFZZFU5dTE1UnlNQ1ozcGM?oc=5",
+      "source": "Prefeitura de Cruz das Almas",
+      "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+      "summary": "Prefeitura de Cruz convoca aprovados no Concurso Público para tomarem posse Prefeitura de Cruz das Almas"
+    },
+    {
+      "title": "CONCURSOS - Prefeitura de Simões Filho",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RQjFfd0gtNlVlNlpueGp1RWh5eHJkZUdzN21Oc0xJMEtKbm9QQmdGVHl1NmdfOHdibWg1SUxybmx0SnFreTVCa1JkTTQwc1JYakE?oc=5",
+      "source": "Prefeitura de Simões Filho",
+      "published": "Tue, 30 Apr 2024 18:16:34 GMT",
+      "summary": "CONCURSOS Prefeitura de Simões Filho"
+    },
+    {
+      "title": "PREFEITURA MUNICIPAL DE SENTO-SÉ / BAHIA CONCURSO PÚBLICO | Edital: Nº 001/2024 - Prefeitura de Sento-Sé BA",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTERXUTdYRUFNOWM1S29KUWJkbHlHbXVIRUk1NnF2MVBvMjhIWnNENUhYd0hkaDloR1dCWktnb1ZQYnQ5Y3BZR21rbGMtckVNY3J2R3dUZGoxLS1oWXh4Mm02a2JYdmpYV2lfWGhTTTAxdUlpMi1NcUhjRkRsSGwzb242VmV6YW9G?oc=5",
+      "source": "Prefeitura de Sento-Sé BA",
+      "published": "Tue, 02 Apr 2024 07:00:00 GMT",
+      "summary": "PREFEITURA MUNICIPAL DE SENTO-SÉ / BAHIA CONCURSO PÚBLICO | Edital: Nº 001/2024 Prefeitura de Sento-Sé BA"
+    },
+    {
+      "title": "Seleção Reda Saeb - Edital 001/2025 | SAEB - Secretaria da Administração - ba.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXoxdWVaZXpTYlFMdVpNQTBmbGl5VEI3RVZmRDFneThxYlRxWkxLU0IxNVFrWFBJdVRuSWVTaVFhLXFZdEVSYXBQUHBWZVdwV21Va2tXOHhtWDlLOTc2TF8xNUZMQVhibFh1UWdXRXJuS3hfdGsxMlNtNEtGRFlrbjVtYUZ2cTg?oc=5",
+      "source": "ba.gov.br",
+      "published": "Mon, 10 Feb 2025 08:00:00 GMT",
+      "summary": "Seleção Reda Saeb - Edital 001/2025 | SAEB - Secretaria da Administração ba.gov.br"
+    }
+  ],
   "last_summary": ""
 }
