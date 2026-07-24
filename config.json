@@ -1,35 +1,152 @@
 {
+  "assistant_name": "JARVIS",
   "timezone": "America/Sao_Paulo",
   "daily_summary_hour": 19,
-  "max_items_per_run": 30,
-  "keywords": [
-    "concurso", "processo seletivo", "edital", "banca", "inscrição",
-    "prova", "resultado", "convocação", "nomeação", "cadastro reserva",
-    "polícia militar", "pmba", "polícia civil", "pcba", "guarda municipal",
-    "gcm", "administrativo", "tecnologia da informação", "informática", "ti"
+  "report_schedule": {
+    "concursos": {
+      "hour": 8,
+      "title": "RELATÓRIO DE CONCURSOS E BANCAS",
+      "categories": ["meus_concursos", "concursos_ba", "concursos_brasil", "bancas"]
+    },
+    "economia": {
+      "hour": 12,
+      "title": "RELATÓRIO DE ECONOMIA E PETROBRAS",
+      "categories": ["petrobras_economia"]
+    },
+    "noticias": {
+      "hour": 19,
+      "title": "RELATÓRIO BRASIL E MUNDO",
+      "categories": ["brasil", "mundo"]
+    }
+  },
+  "freshness_days": 14,
+  "max_items_per_topic": 6,
+  "max_report_items_per_category": 3,
+  "tracked_exams": [
+    "IBGE processo seletivo simplificado",
+    "ESA Escola de Sargentos das Armas",
+    "Guarda Municipal de Riachão do Jacuípe"
   ],
   "urgent_keywords": [
-    "edital de abertura", "banca organizadora", "inscrições abertas",
-    "retificação", "data da prova", "local de prova", "resultado final",
-    "convocação", "nomeação"
+    "edital de abertura", "edital publicado", "banca organizadora",
+    "inscrições abertas", "prazo de inscrição", "retificação",
+    "data da prova", "local de prova", "cartão de confirmação",
+    "resultado final", "convocação", "nomeação"
   ],
   "trusted_domains": [
-    "ba.gov.br", "doe.ba.gov.br", "gov.br",
-    "salvador.ba.gov.br", "feiradesantana.ba.gov.br",
+    "ba.gov.br", "doe.ba.gov.br", "gov.br", "in.gov.br", "ibge.gov.br",
+    "eb.mil.br", "esa.eb.mil.br", "pf.gov.br", "prf.gov.br",
+    "riachaodojacuipe.ba.gov.br", "salvador.ba.gov.br",
+    "feiradesantana.ba.gov.br", "petrobras.com.br", "agenciapetrobras.com.br",
+    "bcb.gov.br", "anp.gov.br", "ipea.gov.br", "reuters.com",
+    "apnews.com", "bbc.com", "bbc.co.uk", "agenciabrasil.ebc.com.br",
     "vunesp.com.br", "fgv.br", "fcc.org.br", "cesgranrio.org.br",
     "institutoaocp.org.br", "ibfc.org.br", "idecan.org.br", "cebraspe.org.br"
   ],
   "official_pages": [
-    "https://www.ba.gov.br/administracao/noticias",
-    "https://www.ba.gov.br/ssp/noticias",
-    "https://www.ba.gov.br/policiacivil/editais",
-    "https://doe.ba.gov.br/"
+    {
+      "category": "concursos_ba",
+      "url": "https://www.ba.gov.br/administracao/noticias"
+    },
+    {
+      "category": "concursos_ba",
+      "url": "https://www.ba.gov.br/ssp/noticias"
+    },
+    {
+      "category": "concursos_ba",
+      "url": "https://www.ba.gov.br/policiacivil/editais"
+    },
+    {
+      "category": "concursos_ba",
+      "url": "https://doe.ba.gov.br/"
+    },
+    {
+      "category": "petrobras_economia",
+      "url": "https://agenciapetrobras.com.br/"
+    },
+    {
+      "category": "bancas",
+      "url": "https://conhecimento.fgv.br/concursos"
+    },
+    {
+      "category": "bancas",
+      "url": "https://www.cebraspe.org.br/concursos/inscricoes-abertas/"
+    }
   ],
-  "searches": [
-    "concurso Bahia PMBA OR polícia militar",
-    "concurso Bahia polícia civil OR PCBA",
-    "concurso Bahia guarda municipal OR GCM",
-    "concurso Bahia administrativo OR tecnologia da informação OR informática",
-    "site:ba.gov.br concurso edital banca convocação"
+  "topics": [
+    {
+      "category": "meus_concursos",
+      "label": "MEUS CONCURSOS",
+      "keywords": ["edital", "inscrição", "prova", "resultado", "convocação", "retificação", "banca"],
+      "searches": [
+        "IBGE processo seletivo simplificado edital prova resultado convocação",
+        "ESA Escola de Sargentos das Armas edital inscrição prova resultado",
+        "Riachão do Jacuípe guarda municipal concurso edital resultado convocação"
+      ]
+    },
+    {
+      "category": "concursos_ba",
+      "label": "CONCURSOS — BAHIA",
+      "keywords": ["concurso", "processo seletivo", "edital", "banca", "inscrição", "prova", "resultado", "convocação", "nomeação", "pmba", "pcba", "guarda municipal", "administrativo", "tecnologia da informação"],
+      "searches": [
+        "concurso Bahia PMBA OR polícia militar OR polícia civil OR PCBA",
+        "concurso Bahia guarda municipal OR GCM",
+        "concurso Bahia administrativo OR tecnologia da informação OR informática",
+        "site:ba.gov.br concurso edital banca convocação"
+      ]
+    },
+    {
+      "category": "concursos_brasil",
+      "label": "CONCURSOS — BRASIL",
+      "keywords": ["concurso", "edital", "banca", "inscrição", "prova", "resultado", "convocação", "polícia federal", "polícia rodoviária federal", "pf", "prf", "tecnologia da informação"],
+      "searches": [
+        "concurso Polícia Federal PF edital banca inscrição",
+        "concurso Polícia Rodoviária Federal PRF edital banca inscrição",
+        "concurso federal tecnologia da informação administrativo edital"
+      ]
+    },
+    {
+      "category": "bancas",
+      "label": "BANCAS — INSCRIÇÕES E NOVIDADES",
+      "keywords": ["concurso", "processo seletivo", "edital", "inscrição", "inscrições abertas", "em andamento", "vagas", "resultado", "convocação"],
+      "searches": [
+        "site:conhecimento.fgv.br/concursos concurso inscrições edital",
+        "site:cebraspe.org.br/concursos inscrições abertas concurso",
+        "site:institutoaocp.org.br concurso inscrições edital",
+        "site:ibfc.org.br concurso inscrições edital",
+        "site:fcc.org.br concurso inscrições edital",
+        "site:vunesp.com.br concurso inscrições abertas",
+        "site:cesgranrio.org.br concurso inscrições edital",
+        "site:idecan.org.br concurso inscrições edital"
+      ]
+    },
+    {
+      "category": "petrobras_economia",
+      "label": "PETROBRAS E ECONOMIA",
+      "keywords": ["petrobras", "petróleo", "combustível", "gasolina", "diesel", "dólar", "inflação", "ipca", "selic", "juros", "economia"],
+      "searches": [
+        "Petrobras preço gasolina diesel combustível anúncio",
+        "dólar Brasil inflação Selic juros Banco Central",
+        "site:gov.br economia combustível petróleo inflação dólar"
+      ]
+    },
+    {
+      "category": "brasil",
+      "label": "BRASIL — DESTAQUES",
+      "keywords": ["brasil", "governo", "congresso", "stf", "saúde", "educação", "segurança", "economia", "tecnologia", "energia", "emprego", "emergência"],
+      "searches": [
+        "principais notícias Brasil hoje Agência Brasil Reuters",
+        "Brasil governo economia segurança saúde tecnologia fatos relevantes"
+      ]
+    },
+    {
+      "category": "mundo",
+      "label": "MUNDO — DESTAQUES",
+      "keywords": ["mundo", "internacional", "guerra", "acordo", "eleição", "economia global", "tecnologia", "inteligência artificial", "crise", "mercado"],
+      "searches": [
+        "principais notícias mundo economia tecnologia Reuters AP BBC",
+        "mundo economia global petróleo tecnologia inteligência artificial"
+      ]
+    }
   ]
 }
