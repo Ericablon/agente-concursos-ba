@@ -22,6 +22,43 @@
   "freshness_days": 14,
   "max_items_per_topic": 6,
   "max_report_items_per_category": 3,
+  "tracked_competitions": [
+    {
+      "id": "pmba",
+      "name": "Polícia Militar da Bahia — PMBA",
+      "aliases": ["pmba", "polícia militar da bahia", "policia militar da bahia"]
+    },
+    {
+      "id": "pcba",
+      "name": "Polícia Civil da Bahia — PCBA",
+      "aliases": ["pcba", "polícia civil da bahia", "policia civil da bahia"]
+    },
+    {
+      "id": "ibge_pss",
+      "name": "IBGE — Processo Seletivo Simplificado",
+      "aliases": ["ibge", "processo seletivo simplificado ibge", "pss ibge"]
+    },
+    {
+      "id": "esa",
+      "name": "Escola de Sargentos das Armas — ESA",
+      "aliases": ["escola de sargentos das armas", "concurso esa", "esa 2026", "esa 2027"]
+    },
+    {
+      "id": "gcm_riachao",
+      "name": "Guarda Municipal de Riachão do Jacuípe",
+      "aliases": ["guarda municipal de riachão do jacuípe", "gcm riachão do jacuípe", "riachão do jacuípe"]
+    },
+    {
+      "id": "pf",
+      "name": "Polícia Federal — PF",
+      "aliases": ["polícia federal", "policia federal", "concurso pf"]
+    },
+    {
+      "id": "prf",
+      "name": "Polícia Rodoviária Federal — PRF",
+      "aliases": ["polícia rodoviária federal", "policia rodoviaria federal", "concurso prf"]
+    }
+  ],
   "tracked_exams": [
     "IBGE processo seletivo simplificado",
     "ESA Escola de Sargentos das Armas",
