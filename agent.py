@@ -161,9 +161,25 @@ def format_item(item):
     title = html.escape(item["title"])
     link = html.escape(item["link"], quote=True)
     source = html.escape(item["source"] or "fonte oficial")
+    text = (item["title"] + " " + item.get("summary", "")).lower()
+
+    if item.get("category") == "bancas":
+        link_label = "Abrir página oficial da banca"
+    elif "edital" in text:
+        link_label = "Abrir edital ou página oficial"
+    elif "inscri" in text:
+        link_label = "Ver inscrições e prazo"
+    elif "resultado" in text:
+        link_label = "Consultar resultado oficial"
+    elif "convoca" in text or "nomea" in text:
+        link_label = "Consultar convocação oficial"
+    else:
+        link_label = "Ler informação na fonte"
+
     return (
-        f"• <a href=\"{link}\">{title}</a>\n"
-        f"Fonte: {source} | Publicado: {date}"
+        f"• <b>{title}</b>\n"
+        f"Fonte: {source} | Publicado: {date}\n"
+        f"🔗 <a href=\"{link}\">{link_label}</a>"
     )
 
 
